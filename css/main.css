@@ -68,6 +68,7 @@ form button {
 
 form button:hover {
   background-color: cadetblue;
+  color: white;
 }
 
 .site-footer {
